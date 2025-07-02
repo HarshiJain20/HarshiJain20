@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Harshi Jain — a 3rd-year Computer Science student at Pandit Deendayal Energy University <br>💭 I'm passionate about frontend development and creative tech.<br>💻 Skilled in HTML, CSS, JavaScript, React | Exploring backend & ML<br>🚀 2x Smart India Hackathon finalist | Part of Flipkart Runway Season 5<br>🎭 President, Dance Club | I love blending tech with creativity<br>🌱 Always eager to learn, build, and grow through new challenges.
+👋 Hi, I'm Harshi Jain — a 3rd-year Computer Science student at Pandit Deendayal Energy University <br>💭 I'm passionate about frontend development and creative tech.<br>💻 Skilled in HTML, CSS, JavaScript, React | Exploring backend & ML<br>🚀 2x Smart India Hackathon participant| Part of Flipkart Runway Season 5<br>🎭 President, Dance Club | I love blending tech with creativity<br>🌱 Always eager to learn, build, and grow through new challenges.
 
 
 ## 🌐 Socials:
