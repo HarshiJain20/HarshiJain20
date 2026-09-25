@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-👋 Hi, I'm Harshi Jain — a Computer Engineering student at Pandit Deendayal Energy University[cite: 1]. 
-💻 I'm a full-stack developer with a strong focus on modern web technologies and building responsive interfaces[cite: 1].
-🎙️ I enjoy exploring AI & ML, particularly working with RAG, LLMs, and real-time voice pipelines[cite: 1].
-🚀 Selected as an Open-Source Contributor for GSSoC 2025 and a 2x Smart India Hackathon participant[cite: 1].
-🎭 President of the Garba Club — I love blending technical problem-solving with creative community leadership[cite: 1].
+👋 Hi, I'm Harshi Jain — a Computer Engineering student at Pandit Deendayal Energy University. 
+💻 I'm a full-stack developer with a strong focus on modern web technologies and building responsive interfaces.
+🎙️ I enjoy exploring AI & ML, particularly working with RAG, LLMs, and real-time voice pipelines.
+🚀 Selected as an Open-Source Contributor for GSSoC 2025 and a 2x Smart India Hackathon participant.
+🎭 President of the Garba Club — I love blending technical problem-solving with creative community leadership.
 🌱 Always eager to learn, build, and optimize complex workflows.
 
 ## 🌐 Socials:
