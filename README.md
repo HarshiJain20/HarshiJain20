@@ -1,10 +1,15 @@
 # 💫 About Me:
 
-👋 Hi, I'm Harshi Jain — a Computer Engineering student at Pandit Deendayal Energy University. 
+👋 Hi, I'm Harshi Jain — a Computer Engineering student at Pandit Deendayal Energy University.
+
 💻 I'm a full-stack developer with a strong focus on modern web technologies and building responsive interfaces.
+
 🎙️ I enjoy exploring AI & ML, particularly working with RAG, LLMs, and real-time voice pipelines.
+
 🚀 Selected as an Open-Source Contributor for GSSoC 2025 and a 2x Smart India Hackathon participant.
+
 🎭 President of the Garba Club — I love blending technical problem-solving with creative community leadership.
+
 🌱 Always eager to learn, build, and optimize complex workflows.
 
 ## 🌐 Socials:
@@ -30,9 +35,9 @@
 
 ## 🚀 Featured Projects
 
-* **[WurkFlo](https://github.com/HarshiJain20/WurkFlo)**: A full-stack project management platform built with Next.js, shadcn/ui, and Supabase. Features an advanced Kanban board engine for sprints, hierarchical roadmap timelines, and a keyboard-first Command Palette[cite: 1].
-* **[Hostel Management System](https://github.com/HarshiJain20/Hostel-Management-System)**: A three-tier web application using PHP, MySQL, and JavaScript that automates room allocation, fee tracking, and online complaint resolution with secure role-based access[cite: 1].
-* **Voice AI Platform (Kupe)**: Built responsive interfaces and integrated a real-time, bi-directional voice pipeline over WebSockets utilizing Gemini Live for low-latency streaming[cite: 1].
+* **[WurkFlo](https://github.com/HarshiJain20/WurkFlo)**: A full-stack project management platform built with Next.js, shadcn/ui, and Supabase. Features an advanced Kanban board engine for sprints, hierarchical roadmap timelines, and a keyboard-first Command Palette.
+* **[Hostel Management System](https://github.com/HarshiJain20/Hostel-Management-System)**: A three-tier web application using PHP, MySQL, and JavaScript that automates room allocation, fee tracking, and online complaint resolution with secure role-based access.
+* **Voice AI Platform (Kupe)**: Built responsive interfaces and integrated a real-time, bi-directional voice pipeline over WebSockets utilizing Gemini Live for low-latency streaming.
 
 ---
 
